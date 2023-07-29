@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Bubblegum+Sans&family=Oxygen&family=Poppins:wght@600&family=Teko:wght@300&family=Ubuntu:wght@500&display=swap");
+
+.resume-container {
+  /* font-family: "Bubblegum Sans", cursive; */
+  /* font-family: "Oxygen", sans-serif; */
+  /* font-family: "Poppins", sans-serif; */
+  /* font-family: "Teko", sans-serif; */
+  font-family: "Ubuntu", sans-serif;
+}
